@@ -1,7 +1,7 @@
 [
     {
-        "modid": "minecraft-forge-kotlin-template",
-        "name": "Minecraft Forge Kotlin Template",
+        "modid": "no-sludge-thanks",
+        "name": "No Sludge Thanks",
         "description": "injection point type '%s'",
         "version": "${version}",
         "mcversion": "${mcversion}",
